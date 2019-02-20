@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/frag_1"
+        android:icon="@drawable/ic_south_park"
+        android:title="South Park" />
+    <item
+        android:id="@+id/frag_2"
+        android:icon="@drawable/ic_family_guy"
+        android:title="Family Guy" />
+    <item
+        android:id="@+id/frag_3"
+        android:icon="@drawable/ic_simpsons"
+        android:title="The Simpsons" />
+    <item
+        android:id="@+id/frag_4"
+        android:icon="@drawable/ic_futurama"
+        android:title="Futurama" />
+</menu>
